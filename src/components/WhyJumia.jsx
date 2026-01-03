@@ -23,6 +23,18 @@ const WhyJumia = () => {
           </li>
         </ul>
       </div>
+      <p className="mt-4 text-sm text-gray-300 text-center max-w-xl mx-auto">
+        <strong>Note:</strong> Don’t want to order via Jumia? <br />
+        We also offer custom delivery options based on your preference. <br />
+        <a
+          href="https://wa.me/2347089472543?text=Hello%20ROKFit%2C%20I%20want%20to%20order%20with%20custom%20delivery."
+          target="_blank"
+          rel="noopener noreferrer"
+          className="text-green-400 font-medium hover:underline"
+        >
+          Contact us on WhatsApp
+        </a>
+      </p>
     </section>
   );
 };
