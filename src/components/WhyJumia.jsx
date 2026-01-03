@@ -23,7 +23,7 @@ const WhyJumia = () => {
           </li>
         </ul>
       </div>
-      <p className="mt-4 text-sm text-gray-300 text-center max-w-xl mx-auto">
+      <p className="mt-4 text-sm text-gray-500 text-center max-w-xl mx-auto">
         <strong>Note:</strong> Don’t want to order via Jumia? <br />
         We also offer custom delivery options based on your preference. <br />
         <a
