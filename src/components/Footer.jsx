@@ -6,16 +6,6 @@ const Footer = () => {
     <footer className="bg-black text-white px-6 py-12">
       <div className="max-w-6xl mx-auto">
         {/* CTA */}
-        <div className="flex justify-center mb-8">
-          <a
-            href="https://www.jumia.com.ng/rokfit/"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="bg-[#f68b1e] text-black font-bold px-8 py-3 rounded-full hover:opacity-90 transition"
-          >
-            Order on Jumia
-          </a>
-        </div>
 
         {/* Social Media */}
         <div className="flex justify-center gap-8 mb-8 text-2xl">
